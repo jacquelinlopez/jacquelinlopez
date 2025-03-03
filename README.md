@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Jacquelin López  
 
 ## 💻 Desarrolladora Web | Fullstack Developer
-🚀 Recién graduada de un bootcamp de programación web, explorando el mundo de **JavaScript, React y NodeJs**.  
+🚀 Recién graduada del  bootcamp de programación web de Adalab, ahora explorando el mundo de **JavaScript, React y NodeJs**.  
 🌍 Apasionada por la tecnología y  los viajes.  
 📌 Actualmente trabajando en proyectos personales como un **buscador de vuelos** y una **landing page**.  
 
