@@ -1,13 +1,13 @@
 # 👋 ¡Hola! Soy Jacquelin López  
 
 ## 💻 Desarrolladora Web | Fullstack Developer
-🚀 Recién graduada del  bootcamp de programación web de [Adalab](https://adalab.es/), ahora explorando el mundo de **JavaScript, React y NodeJs**.  
+🚀 Recién graduada del  bootcamp de programación web de [Adalab](https://adalab.es/).
 🌍 Apasionada por la tecnología y  los viajes.  
 📌 Actualmente trabajando en proyectos personales como un **buscador de vuelos** y una **landing page**.  
 
 ### 🛠️ Tecnologías y herramientas  
-- **Frontend:** HTML, CSS, Sass, JavaScript, React
-- **Backend**  Node.js, Express.js, Bases de datos, Autenticación y gestión de usuarios  
+- **Frontend:** HTML, CSS,JavaScript, React
+- **Backend**  Node.js, Express.js, SQL. 
 - **Otras herramientas:** Git, GitHub, 
 
 ### 📫 Contacto  
