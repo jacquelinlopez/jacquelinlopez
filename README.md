@@ -12,7 +12,7 @@
 
 ### 📫 Contacto  
 💼 [LinkedIn](https://www.linkedin.com/in/jacquelinlopez/)  
-📧 [Email] jacqueelopez@gmail.com  
+📧 Email: jacqueelopez@gmail.com  
   
 
 ¡Bienvenido/a a mi perfil! 😊  
